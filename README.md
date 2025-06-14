@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harmanpreet Singh</h1>
-<h3 align="center">I’m a Frontend developer and UI/UX designer with 2 years’ experience crafting web products and brand identities. I use Figma for design and build polished, responsive interfaces with React, Next.js and Tailwind CSS, backed by the full Adobe Suite. I love finding creative, efficient solutions that turn ideas into standout digital experiences.</h3>
+<h3 align="left">I’m a Frontend developer and UI/UX designer with 2 years’ experience crafting web products and brand identities. I use Figma for design and build polished, responsive interfaces with React, Next.js and Tailwind CSS, backed by the full Adobe Suite. I love finding creative, efficient solutions that turn ideas into standout digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harman-khurmi&label=Profile%20views&color=0e75b6&style=flat" alt="harman-khurmi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harman-khurmi" alt="harman-khurmi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bento.me/harmanpreet](https://bento.me/harmanpreet)
+- 👨‍💻 My Portfolio: [https://bento.me/harmanpreet](https://bento.me/harmanpreet)
 
-- 💬 Ask me about **Brand Design**
+- 💬 Ask me about: **Brand Design**
 
-- 📫 How to reach me **harmankhurmi365@gmail.com**
+- 📫 How to reach me: **harmankhurmi365@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_zZiuKD5VMfSwPiCNLCkNyKO0SwuCzni/view?usp=sharing](https://drive.google.com/file/d/1_zZiuKD5VMfSwPiCNLCkNyKO0SwuCzni/view?usp=sharing)
+- 📄 My Resume: [Click here](https://drive.google.com/file/d/1_zZiuKD5VMfSwPiCNLCkNyKO0SwuCzni/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
