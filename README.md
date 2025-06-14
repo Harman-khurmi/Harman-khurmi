@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harman-khurmi" alt="harman-khurmi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bento.me/harmanpreet](https://bento.me/harmanpreet)
+- 👨‍💻 My Portfolio website: [https://bento.me/harmanpreet](https://bento.me/harmanpreet)
 
-- 📫 How to reach me **harmankhurmi365@gmail.com**
+- 📫 How to reach me: **harmankhurmi365@gmail.com**
 
-- 📄 My CV [Click here](https://drive.google.com/file/d/1_zZiuKD5VMfSwPiCNLCkNyKO0SwuCzni/view?usp=sharing)
+- 📄 My CV: [Click here](https://drive.google.com/file/d/1_zZiuKD5VMfSwPiCNLCkNyKO0SwuCzni/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
