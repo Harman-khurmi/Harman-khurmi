@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harmankhurmi365@gmail.com**
 
-- 📄 My CV [https://drive.google.com/file/d/1UUQoTFVmnutULcpBVYwladfV0wLTYGfd/view?usp=sharing](https://drive.google.com/file/d/1UUQoTFVmnutULcpBVYwladfV0wLTYGfd/view?usp=sharing)
+- 📄 My CV [Click here](https://drive.google.com/file/d/1_zZiuKD5VMfSwPiCNLCkNyKO0SwuCzni/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
