@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harmanpreet Singh</h1>
-<h3 align="center">A passionate frontend developer and UI/UX designer from India</h3>
+<h3 align="center">I’m a Frontend developer and UI/UX designer with 2 years’ experience crafting web products and brand identities. I use Figma for design and build polished, responsive interfaces with React, Next.js and Tailwind CSS, backed by the full Adobe Suite. I love finding creative, efficient solutions that turn ideas into standout digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harman-khurmi&label=Profile%20views&color=0e75b6&style=flat" alt="harman-khurmi" /> </p>
 
