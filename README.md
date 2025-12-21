@@ -13,7 +13,6 @@ alt="coding" />
   <img src="https://komarev.com/ghpvc/?username=harman-khurmi&label=Profile%20views&color=0e75b6&style=flat" alt="harman-khurmi" />
 </p>
 
----
 
 <h2 align="left">🚀 About Me</h2>
 
