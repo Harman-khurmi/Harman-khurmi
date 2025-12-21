@@ -15,7 +15,7 @@ alt="coding" />
 
 ---
 
-**🚀 About Me**
+<h3 align="center">🚀 About Me</h3>
 
 I’m a frontend-focused software engineer with strong expertise in building **high-performance, UI-driven web applications**.  
 My work lies at the intersection of **engineering, design, and product experience** — turning complex ideas into clean, scalable, and intuitive interfaces.
