@@ -17,9 +17,9 @@ alt="coding" />
 <h3 align="left">🚀 About Me</h3>
 
 I’m a frontend-focused software engineer with strong expertise in building **high-performance, UI-driven web applications**.  
-My work lies at the intersection of **engineering, design, and product experience** — turning complex ideas into clean, scalable, and intuitive interfaces.
+My work lies at the intersection of **engineering, design, and product experience** - turning complex ideas into clean, scalable, and intuitive interfaces.
 
-I’ve worked on **production-grade platforms, AI-powered applications, client-customized websites, and freelance projects** for Indian and international clients. I enjoy owning the UI end-to-end — from design decisions to optimized, accessible code.
+I’ve worked on **production-grade platforms, AI-powered applications, client-customized websites, and freelance projects** for Indian and international clients. I enjoy owning the UI end-to-end - from design decisions to optimized, accessible code.
 
 - 🔭 Currently working as **Project Engineer @ Wipro**
 - 🧠 Strong focus on **Frontend Architecture, UI Performance & UX**
@@ -63,10 +63,10 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 
 ## 📌 Featured Projects
 
-- **EnlightAI** – Real-time AI answer generation platform (Gemini API, Auth0)  
-- **Dawdle** – Client-customized web platform with performance-focused UI  
-- **Personal Portfolio** – Motion-rich, design-to-code showcase (Next.js, Tailwind)  
-- **Movie Discovery App** – Optimized search & ranking system (React 19)
+- **EnlightAI** - Real-time AI answer generation platform (Gemini API, Auth0)  
+- **Dawdle** - Client-customized web platform with performance-focused UI  
+- **Personal Portfolio** - Motion-rich, design-to-code showcase (Next.js, Tailwind)  
+- **Movie Discovery App** - Optimized search & ranking system (React 19)
 
 👉 More details: **https://bento.me/harmanpreet**
 
@@ -74,9 +74,9 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 
 ## 🏆 Achievements & Leadership
 
-- 🥇 **1st Position – “AdSense” (Marketing, Finance & Investment Event)**  
+- 🥇 **1st Position - “AdSense” (Marketing, Finance & Investment Event)**  
 - 🎓 **Certificate of Appreciation from Dean, Student Affairs (TIET)**  
-- 👥 Core Member, **FROSH TIET** – Led event planning, workshops & design initiatives  
+- 👥 Core Member, **FROSH TIET** - Led event planning, workshops & design initiatives  
 - 🧩 Participated in **Hackathons & Product Pitch Competitions**
 
 ---
