@@ -5,7 +5,7 @@ Frontend Engineer · UI-Focused Software Engineer<br/>
 Building performant, design-driven web experiences
 </h3>
 
-<img align="right" width="420" style="padding-top: 50px;"
+<img align="right" width="420"
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJjdDZuN2NoMWpwOHIxZ3E3ajdvdHhsOGd3cmU2ZG5pZHprYXI1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"
 alt="coding" />
 
