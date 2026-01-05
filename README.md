@@ -31,7 +31,7 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 
 ## 🛠️ Tech Stack
 
-## Frontend
+### Frontend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
@@ -41,7 +41,7 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
-## UI / Motion / Design
+### UI / Motion / Design
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
@@ -49,7 +49,7 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
 </p>
 
-## Backend & Tools
+### Backend & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
