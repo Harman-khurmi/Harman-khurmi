@@ -63,9 +63,10 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 
 ## 📌 Featured Projects
 
+- **GrowviaAI** - Advertising that drives growth (React.js, TailwindCSS, )  
 - **EnlightAI** - Real-time AI answer generation platform (Gemini API, Auth0)  
 - **Dawdle** - Client-customized web platform with performance-focused UI  
-- **Personal Portfolio** - Motion-rich, design-to-code showcase (Next.js, Tailwind)  
+- **Personal Portfolio** - Motion-rich, design-to-code showcase (Next.js, TailwindCSS)  
 - **Movie Discovery App** - Optimized search & ranking system (React 19)
 
 👉 More details: **https://bento.me/harmanpreet**
