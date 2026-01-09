@@ -84,47 +84,26 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 
 ## 📫 Connect With Me
 
-<!-- <p align="left">
-  <a href="https://www.linkedin.com/in/harmankhurmi/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-
-  
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=harmankhurmi365@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.behance.net/harmankhurmi" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=Behance&logoColor=white"/>
-  </a>
-
-  <a href="https://www.figma.com/@harmankhurmi" target="_blank">
-    <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
-  </a>
-</p> -->
-
 <p align="left">
   <a href="https://www.linkedin.com/in/harmankhurmi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
 
-  <!-- Gmail (copy instruction via tooltip) -->
-  <span title="Click to copy: harmankhurmi365@gmail.com">
+  <!-- Gmail (opens Gmail web with TO prefilled) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harmankhurmi365@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </span>
+  </a>
 
   <a href="https://www.behance.net/harmankhurmi" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=Behance&logoColor=white"/>
   </a>
 
+  <!-- Figma Community -->
   <a href="https://www.figma.com/@harmankhurmi" target="_blank">
     <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
   </a>
 </p>
 
-<p>
-📧 <strong>Email:</strong> <code>harmankhurmi365@gmail.com</code>
-</p>
 
 
 
