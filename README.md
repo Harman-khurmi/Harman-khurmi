@@ -104,6 +104,10 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
   </a>
 </p>
 
+<p>
+📧 <strong>Email:</strong> <code>harmankhurmi365@gmail.com</code>
+</p>
+
 
 
 
