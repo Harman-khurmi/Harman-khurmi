@@ -22,7 +22,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 I’ve worked on **production-grade platforms, AI-powered applications, client-customized websites, and freelance projects** for Indian and international clients. I enjoy owning the UI end-to-end - from design decisions to optimized, accessible code.
 
 - 🔭 Currently working as **Project Engineer @ Wipro**
-- 🧠 Strong focus on **Frontend Architecture, UI Performance & UX**
+- 🧠 Strong focus on **Frontend Architecture, UI Performance & User Experience**
 - 🎨 Background in **UI/UX & Visual Design**
 - 🌍 Freelance experience with **global clients**
 - 🎯 Targeting **Frontend / Product Engineering roles**
