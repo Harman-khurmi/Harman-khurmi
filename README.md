@@ -63,7 +63,7 @@ I’ve worked on **production-grade platforms, AI-powered applications, client-c
 
 ## 📌 Featured Projects
 
-- **PathwiseAI** - Wise Guidance for Every Step of Your Career Path (...In-Progress)
+- **PathwiseAI** - Wise Guidance for Every Step of Your Career Path (...In Development)
 - **GrowviaAI** - Advertising that drives growth (React.js, TailwindCSS, )  
 - **EnlightAI** - Real-time AI answer generation platform (Gemini API, Auth0)  
 - **Dawdle** - Client-customized web platform with performance-focused UI  
