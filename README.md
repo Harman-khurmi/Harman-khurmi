@@ -8,13 +8,13 @@ Building performant, design-driven web experiences
 </h3>
 
 
-<img align="right" width="420"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJjdDZuN2NoMWpwOHIxZ3E3ajdvdHhsOGd3cmU2ZG5pZHprYXI1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"
-alt="coding" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harman-khurmi&label=Profile%20views&color=0e75b6&style=flat" alt="harman-khurmi" />
 </p>
+
+<img align="right" width="420"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJjdDZuN2NoMWpwOHIxZ3E3ajdvdHhsOGd3cmU2ZG5pZHprYXI1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"
+alt="coding" />
 
 
 <h3 align="left">🚀 About Me</h3>
