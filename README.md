@@ -127,14 +127,6 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harman-khurmi&theme=github-dark)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Harman-khurmi&theme=github-dark" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harman-khurmi&theme=github-dark&type=png)](https://git.io/streak-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harman-khurmi&theme=github-dark&type=png)](https://git.io/streak-stats)
-
-<br>
-
 [![Harman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harman-khurmi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khurmi&layout=compact&theme=tokyonight&hide_border=true" /> -->
