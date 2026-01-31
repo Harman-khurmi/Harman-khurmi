@@ -51,11 +51,11 @@ My work lies at the intersection of **engineering, design, and product experienc
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
----
+
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<!--### Frontend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.brandfetch.io/id2alue-rx/w/394/h/80/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="40"/>
@@ -81,7 +81,19 @@ My work lies at the intersection of **engineering, design, and product experienc
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
+</p>-->
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,ts,tailwind,html,css" />
+
+### UI / Motion / Design
+<img src="https://skillicons.dev/icons?i=figma,framer,photoshop,illustrator" />
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress,notion" />
 
 ---
 
@@ -106,6 +118,32 @@ My work lies at the intersection of **engineering, design, and product experienc
 - 🧩 Participated in **Hackathons & Product Pitch Competitions**
 
 ---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harman-khurmi&theme=dark)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khurmi&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+## 💡 Fun Facts (in JavaScript)
+
+```js
+const HarmanpreetSingh = {
+  role: "Frontend Engineer",
+  focus: ["UI Performance", "Clean Architecture", "UX"],
+  languagesSpoken: ["English", "Hindi", "Punjabi"],
+  techStack: {
+    frontend: ["React", "Next.js", "JavaScript", "HTML", "CSS"],
+    design: ["Figma", "Framer"],
+    backend: ["Node.js", "Express"],
+  },
+  currentlyLearning: ["TypeScript", "Backend Fundamentals"],
+  funFact: "I care about UI polish more than most people care about backend logs 😄",
+};
+
+console.log("Let’s build something impactful.");
 
 ## 📫 Connect With Me
 
