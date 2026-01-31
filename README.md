@@ -132,6 +132,12 @@ My work lies at the intersection of **engineering, design, and product experienc
 [![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)-->
 <!-- <img src="https://streak-stats.demolab.com?user=harman-khurmi&theme=dark" height="100px" width="250px"/> -->
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harman-khurmi&theme=github-dark" height="200"/>
+</p>
+
+<br>
+
 [![Harman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harman-khurmi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khurmi&layout=compact&theme=tokyonight&hide_border=true" /> -->
