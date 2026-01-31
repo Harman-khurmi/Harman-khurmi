@@ -1,120 +1,81 @@
-<!-- ===================================================== -->
+<!-- ───────────────────────────────────────────── -->
+<!-- HERO SECTION : TYPEWRITER -->
+<!-- ───────────────────────────────────────────── -->
 
-<!-- HERO : TYPEWRITER INTRO -->
-
-<!-- ===================================================== -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&width=800&lines=Hey+there!+👋+I'm+Harmanpreet+Singh;Frontend+Engineer+·+UI-Focused+Software+Engineer;Building+performant%2C+design-driven+web+experiences;React+·+Next.js+·+JavaScript+·+UI+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&width=750&lines=Hey+there!+👋+I'm+Harmanpreet+Singh;Frontend+Engineer+%7C+UI-Focused+Developer;Building+performant%2C+design-driven+web+experiences;React+%7C+Next.js+%7C+JavaScript+%7C+UI+Performance" />
 
 ---
 
-<h1 align="left">Hi 👋, I'm Harmanpreet Singh</h1>
+## 👋 About Me
 
-<h3 align="left">
-Frontend Engineer · UI-Focused Software Engineer<br/>
-Building performant, design-driven web experiences
-</h3>
+I’m a **frontend-focused software engineer** who loves building **clean, fast, and user-centric web interfaces**.  
+I work at the intersection of **engineering, design, and performance**.
 
-<img align="right" width="420"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJjdDZuN2NoMWpwOHIxZ3E3ajdvdHhsOGd3cmU2ZG5pZHprYXI1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"
-alt="coding" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harman-khurmi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🚀 About Me
-
-I’m a frontend-focused software engineer who enjoys building **clean, fast, and user-centric web interfaces**. I work at the intersection of **engineering, design, and performance**, translating complex ideas into scalable, intuitive user experiences.
-
-* 💼 **Project Engineer @ Wipro**
-* 🎯 Strong focus on **Frontend Architecture, UI Performance & UX**
-* 🎨 Background in **UI/UX & Visual Design**
-* 🌍 Freelance experience with **Indian & global clients**
-* 🧠 Experience with **production-grade & AI-powered platforms**
-* 🌱 Currently learning **TypeScript** and strengthening **backend fundamentals**
-* 🗣️ Languages: **English, Hindi, Punjabi**
-* 🎯 Targeting **Frontend / Product Engineering roles**
+- 💼 **Project Engineer @ Wipro**
+- 🎯 Focused on **Frontend Architecture, UI Performance & UX**
+- 🎨 Strong background in **UI/UX & visual design**
+- 🌍 Freelance experience with **Indian & international clients**
+- 🚀 Experience building **production-grade & AI-powered applications**
+- 🌱 Currently learning **TypeScript** and strengthening **backend fundamentals**
+- 🗣️ Languages: **English, Hindi, Punjabi**
+- 🎯 Actively targeting **Frontend / Product Engineering roles**
 
 ---
 
-<!-- ===================================================== -->
-
-<!-- SNAKE CONTRIBUTION GRID -->
-
-<!-- ===================================================== -->
+<!-- ───────────────────────────────────────────── -->
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<!-- ───────────────────────────────────────────── -->
 
 <img src="https://raw.githubusercontent.com/harman-khurmi/harman-khurmi/output/github-contribution-grid-snake.svg" />
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 ### Frontend
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" />
-</p>
 
 ### UI / Motion / Design
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=figma,framer,photoshop,illustrator" />
-</p>
 
-### Backend & Tools
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,linux,vscode,postman" />
-</p>
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 
 ---
 
 ## 📌 Featured Projects
 
-* **PathwiseAI** – Wise guidance for every step of your career path *(Under Development)*
-* **GrowviaAI** – Performance-driven advertising platform (React, TailwindCSS)
-* **EnlightAI** – Real-time AI answer generation platform (Gemini API, Auth0)
-* **Dawdle** – Client-customized platform with performance-focused UI
-* **Personal Portfolio** – Motion-rich design-to-code showcase (Next.js, TailwindCSS)
-* **Movie Discovery App** – Optimized search & ranking system (React 19)
+- **PathwiseAI** – Career guidance platform (Under Development)
+- **GrowviaAI** – Performance-driven advertising platform (React, Tailwind)
+- **EnlightAI** – Real-time AI answer generation (Gemini API, Auth0)
+- **Dawdle** – Client-customized, performance-focused web platform
+- **Personal Portfolio** – Motion-rich design-to-code showcase (Next.js)
+- **Movie Discovery App** – Optimized search & ranking (React 19)
 
-👉 More details: **[https://bento.me/harmanpreet](https://bento.me/harmanpreet)**
-
----
-
-## 🏆 Achievements & Leadership
-
-* 🥇 **1st Position – “AdSense” (Marketing, Finance & Investment Event)**
-* 🎓 **Certificate of Appreciation from Dean, Student Affairs (TIET)**
-* 👥 Core Member, **FROSH TIET** – Led events, workshops & design initiatives
-* 🧩 Participated in **Hackathons & Product Pitch Competitions**
+👉 **More projects:** https://bento.me/harmanpreet
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harman-khurmi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=harman-khurmi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khurmi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khurmi&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-## 💡 Fun Facts About Me (JavaScript Edition)
+## 💡 Fun Facts (in JavaScript)
 
 ```js
 const HarmanpreetSingh = {
   role: "Frontend Engineer",
-  focus: ["UI Performance", "Frontend Architecture", "UX"],
+  focus: ["UI Performance", "Clean Architecture", "UX"],
   languagesSpoken: ["English", "Hindi", "Punjabi"],
   techStack: {
-    frontend: ["React", "Next.js", "JavaScript"],
+    frontend: ["React", "Next.js", "JavaScript", "HTML", "CSS"],
     design: ["Figma", "Framer"],
     backend: ["Node.js", "Express"],
   },
@@ -123,32 +84,3 @@ const HarmanpreetSingh = {
 };
 
 console.log("Let’s build something impactful.");
-```
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harmankhurmi/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harmankhurmi365@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.behance.net/harmankhurmi" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=Behance&logoColor=white"/>
-  </a>
-
-  <a href="https://www.figma.com/@harmankhurmi" target="_blank">
-    <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
-  </a>
-</p>
-
-📧 **Email:** `harmankhurmi365@gmail.com`
-
----
-
-⭐ *If you like what you see, feel free to explore and star some repositories!*
