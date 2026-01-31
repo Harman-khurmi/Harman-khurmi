@@ -19,16 +19,29 @@ alt="coding" />
 
 <h3 align="left">🚀 About Me</h3>
 
-I’m a frontend-focused software engineer with strong expertise in building **high-performance, UI-driven web applications**.  
+<!--I’m a frontend-focused software engineer with strong expertise in building **high-performance, UI-driven web applications**.  
 My work lies at the intersection of **engineering, design, and product experience** - turning complex ideas into clean, scalable, and intuitive interfaces.
 
 I’ve worked on **production-grade platforms, AI-powered applications, client-customized websites, and freelance projects** for Indian and international clients. I enjoy owning the UI end-to-end - from design decisions to optimized, accessible code.
+
 
 - 🔭 Currently working as **Project Engineer @ Wipro**
 - 🧠 Strong focus on **Frontend Architecture, UI Performance & User Experience**
 - 🎨 Background in **UI/UX & Visual Design**
 - 🌍 Freelance experience with **global clients**
-- 🎯 Targeting **Frontend / Product Engineering roles**
+- 🎯 Targeting **Frontend / Product Engineering roles** -->
+
+I’m a frontend-focused software engineer with strong expertise in building **high-performance, UI-driven web applications**. 
+My work lies at the intersection of **engineering, design, and product experience** - turning complex ideas into clean, scalable, and intuitive interfaces.
+
+- 💼 **Project Engineer @ Wipro**
+- 🎯 Focused on **Frontend Architecture, UI Performance & UX**
+- 🎨 Strong background in **UI/UX & visual design**
+- 🌍 Freelance experience with **Indian & international clients**
+- 🚀 Experience building **production-grade & AI-powered applications**
+- 🌱 Currently learning **TypeScript** and strengthening **backend fundamentals**
+- 🗣️ Languages: **English, Hindi, Punjabi**
+- 🎯 Actively targeting **Frontend / Product Engineering roles**
 
 ---
 
