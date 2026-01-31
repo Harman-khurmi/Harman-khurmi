@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Harmanpreet Singh</h1> -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&width=800&lines=Hey+there!+👋+I'm+Harmanpreet+Singh;Frontend+Engineer+·+UI-Focused+Software+Engineer;Building+performant%2C+design-driven+web+experiences;React+·+Next.js+·+JavaScript+·+UI+Performance" /> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=raleway&weight=800&size=24&pause=999&color=4493F8&center=true&vCenter=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Harmanpreet+Singh;Frontend+Engineer+%C2%B7+UI-Focused+Software+Engineer;Building+performant%2C+design-driven+web+experiences;React+%C2%B7+Next.js+%C2%B7+JavaScript+%C2%B7+UI+Performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=raleway+semibold&weight=600&size=24&pause=999&color=4493F8&center=true&vCenter=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Harmanpreet+Singh;Frontend+Engineer+%C2%B7+UI-Focused+Software+Engineer;Building+performant%2C+design-driven+web+experiences;React+%C2%B7+Next.js+%C2%B7+JavaScript+%C2%B7+UI+Performance)](https://git.io/typing-svg)
 
 <h3 align="center">
 Frontend Engineer · UI-Focused Software Engineer<br/>
