@@ -86,8 +86,10 @@ My work lies at the intersection of **engineering, design, and product experienc
 <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,ts,tailwind,html,css" />
 
 ### UI / Motion / Design
-<img src="https://skillicons.dev/icons?i=figma,framer,photoshop,illustrator" />
+<div style="display:flex">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
+</div>
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
@@ -124,6 +126,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 [![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="(https://streak-stats.demolab.com?user=harman-khurmi&theme=dark"/>
 
 [![Harman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harman-khurmi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -148,6 +151,7 @@ const HarmanpreetSingh = {
 };
 
 console.log("Let’s build something impactful.");
+```
 
 ## 📫 Connect With Me
 
