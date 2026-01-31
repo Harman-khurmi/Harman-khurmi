@@ -43,7 +43,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 - 🗣️ Languages: **English, Hindi, Punjabi**
 - 🎯 Actively targeting **Frontend / Product Engineering roles**
 
----
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Harman-khurmi/Harman-khurmi/blob/main/github-user-contribution.svg" />
@@ -98,7 +98,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 ### Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress,notion" />
 
----
+
 <br>
 
 ## 📌 Featured Projects
@@ -112,7 +112,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 <p>👉 More details: https://bento.me/harmanpreet</p>
 
----
+
 <br>
 
 ## 🏆 Achievements & Leadership
@@ -122,7 +122,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 - 👥 Core Member, **FROSH TIET** - Led event planning, workshops & design initiatives  
 - 🧩 Participated in **Hackathons & Product Pitch Competitions**
 
----
+
 <br>
 ## 📈 GitHub Stats
 
@@ -135,7 +135,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khurmi&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
----
+
 <br>
 
 ## 💡 Fun Facts about me
