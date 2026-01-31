@@ -52,7 +52,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 </picture>
 </div>
 
-
+<br>
 ## 🛠️ Tech Stack
 
 <!--### Frontend
@@ -98,7 +98,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress,notion" />
 
 ---
-
+<br>
 ## 📌 Featured Projects
 
 - **PathwiseAI** - Wise Guidance for Every Step of Your Career Path (Under Development)
@@ -110,10 +110,8 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 <p>👉 More details: https://bento.me/harmanpreet</p>
 
-<br>
-
 ---
-
+<br>
 ## 🏆 Achievements & Leadership
 
 - 🥇 **1st Position - “AdSense” (Marketing, Finance & Investment Event)**  
@@ -122,7 +120,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 - 🧩 Participated in **Hackathons & Product Pitch Competitions**
 
 ---
-
+<br>
 ## 📈 GitHub Stats
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=dark)](https://git.io/streak-stats)
@@ -135,7 +133,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khurmi&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 ---
-
+<br>
 ## 💡 Fun Facts about me
 
 ```js
@@ -155,7 +153,7 @@ const HarmanpreetSingh = {
 
 console.log("Let’s build something impactful.");
 ```
-
+<br>
 ## 📫 Connect With Me
 
 <p align="left">
