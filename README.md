@@ -5,6 +5,15 @@ Frontend Engineer · UI-Focused Software Engineer<br/>
 Building performant, design-driven web experiences
 </h3>
 
+<!-- Snake animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <img align="right" width="420"
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJjdDZuN2NoMWpwOHIxZ3E3ajdvdHhsOGd3cmU2ZG5pZHprYXI1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"
 alt="coding" />
