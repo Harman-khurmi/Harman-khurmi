@@ -53,6 +53,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 </div>
 
 <br>
+
 ## 🛠️ Tech Stack
 
 <!--### Frontend
@@ -99,6 +100,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 ---
 <br>
+
 ## 📌 Featured Projects
 
 - **PathwiseAI** - Wise Guidance for Every Step of Your Career Path (Under Development)
@@ -112,6 +114,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 ---
 <br>
+
 ## 🏆 Achievements & Leadership
 
 - 🥇 **1st Position - “AdSense” (Marketing, Finance & Investment Event)**  
@@ -126,7 +129,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)-->
-<img src="https://streak-stats.demolab.com?user=harman-khurmi&theme=dark" height="100px" width="250px"/>
+<!-- <img src="https://streak-stats.demolab.com?user=harman-khurmi&theme=dark" height="100px" width="250px"/> -->
 
 [![Harman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harman-khurmi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -134,6 +137,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 ---
 <br>
+
 ## 💡 Fun Facts about me
 
 ```js
@@ -154,6 +158,7 @@ const HarmanpreetSingh = {
 console.log("Let’s build something impactful.");
 ```
 <br>
+
 ## 📫 Connect With Me
 
 <p align="left">
