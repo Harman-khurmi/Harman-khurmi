@@ -108,9 +108,10 @@ My work lies at the intersection of **engineering, design, and product experienc
 - **Personal Portfolio** - Motion-rich, design-to-code showcase (Next.js, TailwindCSS)  
 - **Movie Discovery App** - Optimized search & ranking system (React 19)
 
-👉 More details: **https://bento.me/harmanpreet**
-</br>
----
+<p>👉 More details: **https://bento.me/harmanpreet**</p>
+
+<br>
+
 
 ## 🏆 Achievements & Leadership
 
@@ -126,7 +127,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)-->
-<img src="https://streak-stats.demolab.com?user=harman-khurmi&theme=dark"/>
+<img src="https://streak-stats.demolab.com?user=harman-khurmi&theme=dark" height="40px" width="60px"/>
 
 [![Harman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harman-khurmi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
