@@ -14,7 +14,7 @@ Building performant, design-driven web experiences
 
 
 
-<h3 align="left">🚀 About Me</h3>
+## 🚀 About Me
 
 <!--I’m a frontend-focused software engineer with strong expertise in building **high-performance, UI-driven web applications**.  
 My work lies at the intersection of **engineering, design, and product experience** - turning complex ideas into clean, scalable, and intuitive interfaces.
@@ -124,6 +124,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 
 <br>
+
 ## 📈 GitHub Stats
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=dark)](https://git.io/streak-stats)
