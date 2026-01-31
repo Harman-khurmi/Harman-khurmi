@@ -108,10 +108,11 @@ My work lies at the intersection of **engineering, design, and product experienc
 - **Personal Portfolio** - Motion-rich, design-to-code showcase (Next.js, TailwindCSS)  
 - **Movie Discovery App** - Optimized search & ranking system (React 19)
 
-<p>👉 More details: **https://bento.me/harmanpreet**</p>
+<p>👉 More details: https://bento.me/harmanpreet</p>
 
 <br>
 
+---
 
 ## 🏆 Achievements & Leadership
 
@@ -127,7 +128,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harman-khurmi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)-->
-<img src="https://streak-stats.demolab.com?user=harman-khurmi&theme=dark" height="40px" width="60px"/>
+<img src="https://streak-stats.demolab.com?user=harman-khurmi&theme=dark" height="100px" width="250px"/>
 
 [![Harman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harman-khurmi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -135,7 +136,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 
 ---
 
-## 💡 Fun Facts (in JavaScript)
+## 💡 Fun Facts about me
 
 ```js
 const HarmanpreetSingh = {
@@ -149,6 +150,7 @@ const HarmanpreetSingh = {
   },
   currentlyLearning: ["TypeScript", "Backend Fundamentals"],
   funFact: "I care about UI polish more than most people care about backend logs 😄",
+  hobbies: ["Designing", "Painting", "Gaming", "Music"]
 };
 
 console.log("Let’s build something impactful.");
@@ -180,6 +182,11 @@ console.log("Let’s build something impactful.");
 📧 <strong>Email:</strong> <code>harmankhurmi365@gmail.com</code>
 </p>
 
+<div align="center">
+  
+### ⭐ Show your ❤️ by starring some repositories! ⭐
+
+</div>
 
 
 
