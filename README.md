@@ -139,7 +139,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 ```js
 const HarmanpreetSingh = {
   role: "Frontend Engineer",
-  focus: ["UI Performance", "Clean Architecture", "UX"],
+  focus: ["UI Performance", "Clean Architecture", "User Experience"],
   languagesSpoken: ["English", "Hindi", "Punjabi"],
   techStack: {
     frontend: ["React", "Next.js", "JavaScript", "HTML", "CSS"],
