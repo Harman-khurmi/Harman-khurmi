@@ -110,7 +110,7 @@ My work lies at the intersection of **engineering, design, and product experienc
 - **Personal Portfolio** - Motion-rich, design-to-code showcase (Next.js, TailwindCSS)  
 - **Movie Discovery App** - Optimized search & ranking system (React 19)
 
-<p>👉 More details: https://bento.me/harmanpreet</p>
+<p>👉 More details: https://harmancodes.site</p>
 
 
 <br>
